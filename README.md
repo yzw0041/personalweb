@@ -1,1 +1,3 @@
-# An Engineer, a neuroscientist, a data lover
+# A software Engineer, a clinical neuroscientist. 
+# I am passionate about learning new techniques.
+
