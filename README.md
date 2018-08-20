@@ -1,5 +1,5 @@
-## An data scientist, a clinical neuroscientist. 
-## I am passionate about learning new techniques and applying them into clinical field.
+#### An data scientist, a clinical neuroscientist. 
+#### I am passionate about learning new techniques and applying them into clinical field.
 
 ### Deep Learning Code
 ### A simple Keras Classification using MNIST data
