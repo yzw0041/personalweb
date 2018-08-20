@@ -2,7 +2,7 @@
 #### I am passionate about learning new techniques and applying them into clinical field.
 
 ### Deep Learning Code
-### A simple Keras Classification using MNIST data
+### A simple Keras Classification using MNIST data .  8/20/2018
 ### https://github.com/yzw0041/yzw0041.github.io/wiki/A-simple-Keras-Classification-using-MNIST-data
 
 
